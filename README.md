@@ -69,4 +69,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
-Source: https://www.ibrahima-ndaw.com/blog/7-steps-to-understand-react-redux/#2-what-is-redux-and-why-we-need-it
+Source: 
+1. https://www.ibrahima-ndaw.com/blog/7-steps-to-understand-react-redux/#2-what-is-redux-and-why-we-need-it
+2. https://www.freecodecamp.org/news/how-to-use-redux-in-your-react-typescript-app/
